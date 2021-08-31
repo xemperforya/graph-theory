@@ -1,0 +1,7 @@
+﻿  Graph Theory.cpp
+C:\Users\KIIT\source\repos\Graph Theory\Graph Theory.cpp(35,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KIIT\source\repos\Graph Theory\Graph Theory.cpp(38,27): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KIIT\source\repos\Graph Theory\Graph Theory.cpp(62,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KIIT\source\repos\Graph Theory\Graph Theory.cpp(78,23): warning C4018: '<': signed/unsigned mismatch
+C:\Users\KIIT\source\repos\Graph Theory\Graph Theory.cpp(133,27): warning C4018: '<': signed/unsigned mismatch
+  Graph Theory.vcxproj -> C:\Users\KIIT\source\repos\Graph Theory\Debug\Graph Theory.exe
